@@ -1,15 +1,16 @@
-# nubank
+# Nubank Clone
 
-A new Flutter project.
+A nubank clone!!!
+this project is under development.
 
-## Getting Started
+<img href="https://github.com/OliverXs/OliverXs/blob/master/photos/nubank.png" alt="nubank interface" height="200px" width="100px"/>
 
-This project is a starting point for a Flutter application.
+## @Kayn_rs
+### Getting Started
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
