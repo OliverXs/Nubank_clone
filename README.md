@@ -3,7 +3,7 @@
 A nubank clone!!!
 this project is under development.
 
-<img href="https://github.com/OliverXs/OliverXs/blob/master/photos/nubank.png" alt="nubank interface" height="200px" width="100px"/>
+<img src="https://github.com/OliverXs/OliverXs/blob/master/photos/nubank.png" alt="nubank interface" height="800px">
 
 ## @Kayn_rs
 ### Getting Started
